@@ -2,7 +2,8 @@
 
 > Hello and welcome to FwordCTF2k20. Let's start with something to warmup GOOD LUCK and have fun.
 
-Along with the message, an ELF file and a netcat link was provided.  
+Along with the message, an [ELF file](https://github.com/EnigmaEnvoy/2020-CTF-Writeups/blob/master/Fword%20CTF/Welcome%20Reverser/welcome) and a netcat link was provided.  
+  
 When connected to the link, the following message was displayed:
 
 > Hello give me the secret number so i can get the flag:  
