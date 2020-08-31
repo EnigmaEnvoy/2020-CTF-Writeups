@@ -20,7 +20,7 @@ In order to do that, we first get the sum of the first and second elements (sum_
 After that, we get the sum between first and the remaining 1334 elements and calculate all of them.  
   
   
-The complete payload is in the file: solve.py
+The complete payload is in the file: [solve.py](https://github.com/EnigmaEnvoy/2020-CTF-Writeups/blob/master/Fword%20CTF/Secret%20Array/solve.py)  
 
 ### Flag
 `FwordCTF{it_s_all_about_the_math}`
