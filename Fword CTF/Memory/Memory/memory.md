@@ -1,3 +1,6 @@
+# Memory (Forensics)  
+  
+  
 > Flag is : FwordCTF{computername_user_password}
   
 We also have a foren.raw file given with the question.  
