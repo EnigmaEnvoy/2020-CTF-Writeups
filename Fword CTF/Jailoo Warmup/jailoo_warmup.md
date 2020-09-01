@@ -4,9 +4,9 @@
 > Get the flag in FLAG.PHP.  
   
   
-We also were given a PHP file showing the code executed when a command is submitted in the challenge link.  
+We also were given a [PHP file](https://github.com/EnigmaEnvoy/2020-CTF-Writeups/blob/master/Fword%20CTF/Jailoo%20Warmup/jailoo.php) showing the code executed when a command is submitted in the challenge link.  
   
-The jailoo.py payload is used against the website.  
+The [jailoo.py](https://github.com/EnigmaEnvoy/2020-CTF-Writeups/blob/master/Fword%20CTF/Jailoo%20Warmup/jailoo.py) payload is used against the website.  
   
   
 ### Flag
