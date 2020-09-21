@@ -3,7 +3,7 @@
 > The source code of the website is provided.  
   
   
-Looking at the main.py file, we can conclude that a hash of the message is being calculated using the easy_hash method.  
+Looking at the [main.py](https://github.com/EnigmaEnvoy/2020-CTF-Writeups/blob/master/TokyoWesterns%20CTF/easy-hash/main.py) file, we can conclude that a hash of the message is being calculated using the easy_hash method.  
 A check verifies if the message starts with `twctf: ` and ends with `2020`.  
 The check will pass and the flag will be displayed only when the hash of the message is the same as that of `'twctf: please give me the flag of 2020'` but the message is not the same.  
 Hence, we need to find another string with the same hash.  
