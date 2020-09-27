@@ -6,7 +6,7 @@
   
 When the spectrogram of the MP4 file is analyzed, we get the flag.  
 
-![Spectrogram]  
+![Spectrogram](https://github.com/EnigmaEnvoy/2020-CTF-Writeups/blob/master/Dark%20CTF/AW/solution.png)  
   
   
 ### Flag
