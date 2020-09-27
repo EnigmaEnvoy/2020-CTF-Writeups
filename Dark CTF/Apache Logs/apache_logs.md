@@ -4,7 +4,7 @@
 > flag format: DarkCTF{}  
   
   
-In the log file provided, we can see some SQL Injection payloads.  
+In the [log file](https://github.com/EnigmaEnvoy/2020-CTF-Writeups/blob/master/Dark%20CTF/Apache%20Logs/logs.ctf) provided, we can see some SQL Injection payloads.  
 Decoding some of them:  
   
 **String:** `GET /mutillidae/index.php?page=user-info.php&username=%27+union+all+select+1%2CString.fromCharCode%28102%2C+108%2C+97%2C+103%2C+32%2C+105%2C+115%2C+32%2C+83%2C+81%2C+76%2C+95%2C+73%2C+110%2C+106%2C+101%2C+99%2C+116%2C+105%2C+111%2C+110%29%2C3+--%2B&password=&user-info-php-submit-button=View+Account+Details HTTP/1.1`  
