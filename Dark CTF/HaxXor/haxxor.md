@@ -10,10 +10,10 @@ We know that the challenge is related to XOR from the title. We need to find the
 We know that the first 8 characters of the flag are `darkCTF{`.  
 If we XOR the first 16 characters in the HEX string with `darkCTF{`, we get `1337hack`.  
   
-![key check]()  
+![key check](https://github.com/EnigmaEnvoy/2020-CTF-Writeups/blob/master/Dark%20CTF/HaxXor/key_check.png)  
 This is the recurring key. Hence, we XOR the entire HEX string with `1337hack1337hack1337h`, which gives the flag.  
   
-![solution]()  
+![solution](https://github.com/EnigmaEnvoy/2020-CTF-Writeups/blob/master/Dark%20CTF/HaxXor/solution.png)  
   
   
 ### Flag
