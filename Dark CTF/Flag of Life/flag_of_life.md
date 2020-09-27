@@ -28,10 +28,12 @@ When connected to the link provided, we see the following:
   
     
   We try various key lengths:  
+    
   ![trials](https://github.com/EnigmaEnvoy/2020-CTF-Writeups/blob/master/Dark%20CTF/Flag%20of%20Life/trials.png)  
   By this, we can conclude that the key length is supposed to be 0. However, the program accepts only positive integers.  
     
   Therefore, we exploit the 16-bit int property, where it considers 65536 as 0.  
+    
   ![solution](https://github.com/EnigmaEnvoy/2020-CTF-Writeups/blob/master/Dark%20CTF/Flag%20of%20Life/solution.png)  
     
     
