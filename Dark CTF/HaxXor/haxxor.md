@@ -7,7 +7,7 @@
   
 We know that the challenge is related to XOR from the title. We need to find the key used for the XOR operation in order to reverse it.  
   
-We know that the first 8 characters of the flag are `darkCTF{`.  
+We know that the flag starts with `darkCTF{` and ends with `}`.  
 If we XOR the first 16 characters in the HEX string with `darkCTF{`, we get `1337hack`.  
   
 ![key check](https://github.com/EnigmaEnvoy/2020-CTF-Writeups/blob/master/Dark%20CTF/HaxXor/key_check.png)  
