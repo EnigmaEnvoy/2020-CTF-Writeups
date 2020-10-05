@@ -2,10 +2,10 @@
   
   
 > Is this a dream or not? Use your totem to find out.  
-> A python template was also given.
+> A [python template](https://github.com/EnigmaEnvoy/2020-CTF-Writeups/blob/master/B01lers%20CTF/Totem/totem-template-64570ca140218e167da3995184bc89a4.py) was also given.
   
   
-We complete all the empty methods in the python file given. Running this file gives us the flag.  
+We complete all the empty methods in the python file given. Running [this file](https://github.com/EnigmaEnvoy/2020-CTF-Writeups/blob/master/B01lers%20CTF/Totem/totem.py) gives us the flag.  
   
   
 ### Flag
