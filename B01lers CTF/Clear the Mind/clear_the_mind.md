@@ -2,7 +2,7 @@
   
   
 > They've gotten into your mind, but haven't managed to dive that deep yet. Root them out before it becomes an issue.  
-> Another text file was given which n, c and e values.  
+> Another [text](https://github.com/EnigmaEnvoy/2020-CTF-Writeups/blob/master/B01lers%20CTF/Clear%20the%20Mind/clearthemind-95675be185e30d19e6420e07d95142d1.txt) file was given which n, c and e values.  
   
   
 Looking at the text file, we realise that the values n, c and e correspond to the modulus, ciphertext and public key of RSA respectively.  
