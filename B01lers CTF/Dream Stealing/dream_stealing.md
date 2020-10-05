@@ -2,7 +2,7 @@
   
   
 > I've managed to steal some secrets from their subconscious, can you figure out anything from this?  
-> A text file having Modulus, one factor of N, Public key and Ciphertext was given.  
+> A [text](https://github.com/EnigmaEnvoy/2020-CTF-Writeups/blob/master/B01lers%20CTF/Dream%20Stealing/ciphertext-bb416c708f242b0c70d6f2c07d646d9f.txt) file having Modulus, one factor of N, Public key and Ciphertext was given.  
   
   
 By the parameters given in the file, we can conclude that the encryption technique used is RSA.  
